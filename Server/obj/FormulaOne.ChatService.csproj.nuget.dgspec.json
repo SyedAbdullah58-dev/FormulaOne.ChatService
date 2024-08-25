@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\backend apps\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj": {}
+    "D:\\Learning\\backend apps\\FormulaOne.ChatService\\Server\\FormulaOne.ChatService.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\backend apps\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj": {
+    "D:\\Learning\\backend apps\\FormulaOne.ChatService\\Server\\FormulaOne.ChatService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\backend apps\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj",
+        "projectUniqueName": "D:\\Learning\\backend apps\\FormulaOne.ChatService\\Server\\FormulaOne.ChatService.csproj",
         "projectName": "FormulaOne.ChatService",
-        "projectPath": "D:\\Learning\\backend apps\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj",
+        "projectPath": "D:\\Learning\\backend apps\\FormulaOne.ChatService\\Server\\FormulaOne.ChatService.csproj",
         "packagesPath": "C:\\Users\\abdulsye\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\backend apps\\FormulaOne.ChatService\\obj\\",
+        "outputPath": "D:\\Learning\\backend apps\\FormulaOne.ChatService\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdulsye\\AppData\\Roaming\\NuGet\\NuGet.Config",

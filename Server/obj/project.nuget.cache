@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xnFZQxasM3rXIophUYIEhrVcOMYlgH4hyq2KV3xyKm0eEnmm/tGUjxx7eSmGTyZx0ixthKUxacOMfqNcOi9Wcw==",
+  "dgSpecHash": "selQawxTSu6UzfXi06LeeR3RTeqgoR7Ppb52GHVK2TdwxoLwvGCSrFwwBaurK1si4LAc95UwkdTvTr0qmNYHHA==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\backend apps\\FormulaOne.ChatService\\FormulaOne.ChatService.csproj",
+  "projectFilePath": "D:\\Learning\\backend apps\\FormulaOne.ChatService\\Server\\FormulaOne.ChatService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
